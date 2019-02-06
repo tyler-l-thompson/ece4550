@@ -15,7 +15,7 @@ tb = n/Fsb;
 f1a = cos(20*pi*ta);
 f2a = cos(100*pi*ta);
 f1b = cos(20*pi*tb);
-f2b = cos(20*pi*tb);
+f2b = cos(100*pi*tb);
 
 figure(1)
 
